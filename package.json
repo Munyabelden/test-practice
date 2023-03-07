@@ -1,0 +1,23 @@
+{
+  "name": "test-practice",
+  "version": "1.0.0",
+  "description": "This is a project on testing using jest library on my application",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Munyabelden/test-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Munyabelden/test-practice/issues"
+  },
+  "homepage": "https://github.com/Munyabelden/test-practice#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
